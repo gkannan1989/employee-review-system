@@ -1,5 +1,3 @@
-# employee-review-system
-
 # Employee review system
 React.js + Meterial UI </br>
 

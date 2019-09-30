@@ -62,7 +62,7 @@ Run client
 $ npm run dev
 ```
 
-Go to localhost:8080
+Your application serves at localhost:8080
 
 Test accounts based on the datafeed.js: - you can try the below accounts 
 

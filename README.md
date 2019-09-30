@@ -66,7 +66,7 @@ Your application serves at localhost:8080
 
 Test accounts based on the datafeed.js: - you can try the below accounts 
 
-kannan@coder.com:123456777 - Admin permission</br>
-priya@coder.com:123456777 - User permission</br>
-saatvika@coder.com:123456777 - User permission</br>
-hossien@coder.com:123456777 - User permission</br>
+kannan@coder.com:123456777 - Admin</br>
+priya@coder.com:123456777 - Employee</br>
+saatvika@coder.com:123456777 - Employee</br>
+hossien@coder.com:123456777 - Employee</br>

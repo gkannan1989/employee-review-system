@@ -1,0 +1,181 @@
+@import "normalize.scss";
+@import "vars.scss";
+@import "./components/calculator.scss";
+@import "./components/button.scss";
+@import "./components/input.scss";
+@import "./components/select.scss";
+@import "./components/spinner.css";
+@import "./components/login.scss";
+
+body {
+  margin: 0;
+  padding: 0;
+  background: $background-wrapper;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  line-height: 1.2;
+  color: $font-color;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wrapper {
+  width: 99%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+header {
+  height: 50px;
+  width: 100%;
+  -webkit-box-shadow: 0px 3px 38px -5px rgba(0,0,0,0.10);
+  -moz-box-shadow: 0px 3px 38px -5px rgba(0,0,0,0.10);
+  box-shadow: 0px 3px 38px -5px rgba(0,0,0,0.10);
+  background-color: #ffffff
+}
+
+.header__logo--wrapper {
+  display: inline-block;
+  margin: 20px 0 0 20px;
+}
+
+.header__logo {
+  max-width: 80px;
+}
+
+.header__menu {
+  display: inline-block;
+  margin: 3px 0 0 30px;
+  position: relative;
+  top: 37%;
+  text-align: center;
+  left: 26%;
+  a {
+    color: #fff;
+    text-decoration: none; 
+    text-transform: uppercase;
+    font-size: 14px;
+    position: relative;
+    top: -3px;
+    margin-right: 10px;
+  }
+}
+
+.header__signout {
+  float: right;
+  margin: 20px 20px 0 0;
+  font-size: 14px; 
+  cursor: pointer; 
+}
+.MuiAppBar-colorPrimary {
+  background-color: #fff;
+}
+
+.content__wrapper {
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header__profile {
+  float: left;
+  /* margin: 20px 20px 0 0; */
+  position: relative;
+  top: 33%;
+  left: 3%;
+}
+
+// Employees
+.employee__row {
+  display: flex;
+  border-bottom: 1px solid #efefef;
+  padding: 10px 0 10px 0;
+  justify-content: space-between;
+  a {
+    color: #000;
+  }
+}
+ 
+.employee__type { 
+  font-size: 12px;
+  margin-top: 7px;
+}
+
+.employee__buttons {
+  float: right;
+}
+.employee__text  {
+  font-size: 1.3em;
+}
+.clear {
+  clear: both;
+}
+
+.employee__datetime {
+  font-weight: 600;
+  font-size: 12px;
+  margin: 5px 0;
+}
+
+.employee__review-content {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.performance__title {
+  float: left;
+}
+.ant-modal-content {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  background-color: #f5f5f5;
+}
+.switchContainer {
+  text-align: center;
+  /* bottom: 17%; */
+  position: relative;
+  margin: 33px 0px 0px 0px;
+}
+.anticon svg {
+  color: #fff;
+}
+.ant-modal-header {
+  background: #3f51b5;
+}
+.ant-modal-title {
+  color: #fff
+}
+.MuiGrid-spacing-xs-2 > .MuiGrid-item {
+  padding:0px;
+}
+.input__block input {
+  width: 23rem;
+}
+.btn__block button {
+  width: 15rem;
+}
+.ant-modal-confirm .ant-modal-body{
+  background-color: #3f51b5;
+}
+.ant-modal-confirm-body .ant-modal-confirm-title {
+  color: #fff;
+}
+.ant-btn {
+  width: 40%;
+  font-weight: bold;
+    float: left;
+}
+.ant-modal-confirm .ant-modal-confirm-btns button + button {
+  width: 40%;
+  font-weight: bold;
+    float: right;
+}
+.ant-modal-confirm-btns {
+  width:100%
+}

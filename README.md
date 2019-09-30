@@ -35,7 +35,7 @@ Run mongo server
 $ mongod
 ```
 
-Run migrations to create sample data
+Run datafeed to create sample data
 ```
 $ npm run datafeed
 ```

@@ -2,12 +2,15 @@
 This app handles employee review management </br>
 
 ### What is used:
+Frontend
 - React 
 - Redux
+- Meterial UI
+
+Backend
 - Express
 - MongoDB + Mongoose
 - Passport.js
-- Meterial UI
 
 #### Usage 
 Clone this repo

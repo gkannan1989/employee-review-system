@@ -1,11 +1,9 @@
 # Employee review system
-React.js + Meterial UI </br>
-
-Express + Passport.js</br>
 This app handles employee review management </br>
 
 ### What is used:
-- React + Redux
+- React 
+- Redux
 - Express
 - MongoDB + Mongoose
 - Passport.js

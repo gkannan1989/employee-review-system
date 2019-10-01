@@ -16,6 +16,8 @@ Demo
 
  [![Demo Doccou alpha](https://cdn.loom.com/sessions/thumbnails/e04c6f7671e54edfba8557684f52c7cd-00001.gif)](https://cdn.loom.com/sessions/raw/e04c6f7671e54edfba8557684f52c7cd.webm?Expires=1570006739&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vc2Vzc2lvbnMvcmF3L2UwNGM2Zjc2NzFlNTRlZGZiYTg1NTc2ODRmNTJjN2NkLndlYm0iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1NzAwMDY3Mzl9fX1dfQ__&Signature=TOqohGcnS2rQO5T74EBKcvGm1~F8MlAKC~7NJOEyj7-iKCK2KZlR0oCXL20rFQsHpERkY7EhS-CPo~AFcdtd1TSiJDCOdTCWT9swG7B9X-yRSFr7ha0ShSmQLo0ffWNBiSgqOPl0ebDWG7qBy~~AP3WRioWqmcyOp-bYvc~9jR0OlGjNS3L-FkrLKQSZ17KXXoYTAF4PbfvSwngWaG60g39feVrrElcFh~m1LIa7dUq1fmm40Bhdl4G5GQCSbu5xL~br9U45NWTQ7fns3qpw55VK8ralHl5IZz~8Y-6J-WLU3MyDKGQTspnSonj8UpwbPXnF0v3fc-E~kusbTwcCKg__&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ)
 
+If the video is not accessible you can view here - https://www.loom.com/share/e04c6f7671e54edfba8557684f52c7cd
+
 #### Usage 
 Clone this repo
 ```
